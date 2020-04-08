@@ -1,0 +1,43 @@
+# Ideas for the SpaceGame
+## Content
+- Portals between planets, wormholes
+- Aliens and Alienplanets
+- Hyperspeed interstellar warp travel
+- Big spaceships
+	- interior
+	- exterior
+- SciFi
+- Quests / Tasks -> Questsystem vs Storyline
+	- Given by traders from far away
+	- Galaxy wide threat, work against it
+	- Scientific missions
+	- Extraterrestial colonies getting attacked
+- Space stations
+- A flightsimulator but in space
+- A space fighting game
+- Multiple Dimensions / Mirror universes
+- Time travel
+- Omnipotent being
+- Build your own spacestation
+- Spacemining, gathering resources, developing highly advanced technology
+
+## Technical
+- C++
+- OpenGL vs Vulkan vs some prewritten Gameengine
+	- Writing a lightwheight gameengine from scratch allows for cool effects like seamless portals or a view into space from a window on a spaceship/station
+	- Support for older hardware
+		- Wide support for OpenGL
+- Map-Editor?
+- Appearance, one of
+	- Realistic
+	- Low Poly
+	- Comic
+	- 8-Bit
+- Singleplayer vs Multiplayer
+- Precreated vs Procedurial generation
+- Independent development of single components
+	- Control
+	- Rendering
+	- Physicsengine
+		- Game mechanics
+	- Settings, game menu
